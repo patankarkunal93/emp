@@ -46,6 +46,7 @@ public class Employee {
 		Net_Sal=Gross_Sal-(PT+PF);
 		System.out.println("Gross Salary is : "+Gross_Sal);
 		System.out.println("Net Salary is: "+Net_Sal);
+		System.out.println("Code completed");
 	}
 	
 	public String toString()
