@@ -58,7 +58,7 @@ public class Employee {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Employee E1=new Employee(10,"Kunal",200000);
+		Employee E1=new Employee(10,"Max",200000);
 		E1.toString();
 		
 	}
